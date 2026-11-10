@@ -1,0 +1,238 @@
+{
+  "ambient": [
+    {
+      "text": "Ai đi ngang ghé nghỉ chân nghen. Tiệm ông Ba có bánh, có kẹo, có cả chuyện vui nữa à.",
+      "src": "/audio/ambient-01.mp3",
+      "durationMs": 7560
+    },
+    {
+      "text": "Hồi nhỏ, có đồng bạc mua cây kẹo là vui cả buổi. Giờ ngồi đây, có bà con ghé là ông vui rồi.",
+      "src": "/audio/ambient-02.mp3",
+      "durationMs": 8232
+    },
+    {
+      "text": "Trời trưa rồi, bà con nhớ uống miếng nước nghen. Làm gì thì làm, cũng phải giữ gìn sức khỏe.",
+      "src": "/audio/ambient-03.mp3",
+      "durationMs": 8136
+    },
+    {
+      "text": "Tiệm nhỏ vậy thôi chớ món gì cũng có. Thiếu món nào, mai ông đạp xe ra chợ lấy về.",
+      "src": "/audio/ambient-04.mp3",
+      "durationMs": 7608
+    },
+    {
+      "text": "Con mèo mướp lại ngủ quên bên thùng bánh rồi. Canh tiệm kiểu này chắc ông trả công bằng cá khô quá.",
+      "src": "/audio/ambient-05.mp3",
+      "durationMs": 7704
+    },
+    {
+      "text": "Có người hỏi sao ông ngồi đây hoài. Thì ở đây mát, lại được nghe bà con kể chuyện mỗi ngày.",
+      "src": "/audio/ambient-06.mp3",
+      "durationMs": 7368
+    },
+    {
+      "text": "Nghe gió thổi qua hàng tre mà thấy lòng nhẹ hều. Bà con ngồi chơi, thong thả một chút nghen.",
+      "src": "/audio/ambient-07.mp3",
+      "durationMs": 7512
+    }
+  ],
+  "greeting": [
+    {
+      "text": "Ông Ba chào bà con nghen. Ghé tiệm chơi, uống với ông ly trà cho vui nhà vui cửa.",
+      "src": "/audio/greeting-01.mp3",
+      "durationMs": 7416
+    },
+    {
+      "text": "À, có khách tới kìa. Mời con ngồi, ông rót ly trà. Hôm nay con có chuyện gì vui kể ông nghe với.",
+      "src": "/audio/greeting-02.mp3",
+      "durationMs": 9624
+    }
+  ],
+  "gift": [
+    {
+      "text": "Ông nhận được quà rồi nè. Cảm ơn tấm lòng của con nghen. Con ghé chơi là ông vui lắm rồi.",
+      "src": "/audio/gift-01.mp3",
+      "durationMs": 8328
+    },
+    {
+      "text": "Chà, bà con thương tiệm ông quá. Ông cảm ơn nhiều nghen. Mời bà con miếng bánh, uống thêm ly trà.",
+      "src": "/audio/gift-02.mp3",
+      "durationMs": 9696
+    },
+    {
+      "text": "Có quà tới tiệm kìa. Cảm ơn con đã ghé thăm ông Ba. Chúc con một ngày thiệt là bình an.",
+      "src": "/audio/gift-03.mp3",
+      "durationMs": 8352
+    }
+  ],
+  "follow": [
+    {
+      "text": "Cảm ơn con đã theo dõi tiệm ông Ba nghen. Rảnh thì ghé chơi, ông để dành ghế mát cho con.",
+      "src": "/audio/follow-01.mp3",
+      "durationMs": 7512
+    }
+  ],
+  "tea": [
+    {
+      "text": "Trà mới pha còn nóng nè. Bà con cầm ly cẩn thận, rồi ngồi xuống nghe ông kể chuyện ngày xưa.",
+      "src": "/audio/tea-01.mp3",
+      "durationMs": 7944
+    }
+  ],
+  "rain": [
+    {
+      "text": "Trời đổ mưa rồi bà con ơi. Ghé vô mái hiên trú chút nghen. Để ông cất thùng bánh cho khỏi ướt.",
+      "src": "/audio/rain-01.mp3",
+      "durationMs": 8856
+    }
+  ],
+  "upgrade": [
+    {
+      "text": "Tiệm mình lại khang trang thêm rồi. Ông cảm ơn bà con đã ở đây chung vui. Mai ông bày thêm món ngon nghen.",
+      "src": "/audio/upgrade-01.mp3",
+      "durationMs": 9432
+    },
+    {
+      "text": "Nhờ bà con thương mà tiệm ông thêm một cấp rồi. Cảm ơn con, ông bày thêm món ngon nghen.",
+      "src": "/audio/reaction-upgrade-01.mp3",
+      "durationMs": 7392
+    }
+  ],
+  "vegetables": [
+    {
+      "text": "Rau tươi tới rồi nè. Cảm ơn con nghen, để ông xếp ngay ngắn lên sạp.",
+      "src": "/audio/reaction-vegetables-01.mp3",
+      "durationMs": 6504
+    }
+  ],
+  "snack": [
+    {
+      "text": "Có bánh mới rồi bà con ơi. Ông xếp vào giỏ, ai ghé tiệm cũng có phần.",
+      "src": "/audio/reaction-snack-01.mp3",
+      "durationMs": 6744
+    }
+  ],
+  "materials": [
+    {
+      "text": "Có thêm gỗ với gạch rồi. Cảm ơn con nghen, cái tiệm nhỏ của ông sắp khang trang hơn.",
+      "src": "/audio/reaction-materials-01.mp3",
+      "durationMs": 7104
+    }
+  ],
+  "milk": [
+    {
+      "text": "Sữa mới tới tiệm nè. Ông để lên kệ, nhớ uống cho khỏe người nghen con.",
+      "src": "/audio/reaction-milk-01.mp3",
+      "durationMs": 6648
+    }
+  ],
+  "cake": [
+    {
+      "text": "Chà, bánh thơm quá. Ông cắt một miếng nhỏ, mời bà con ngồi ăn với ông.",
+      "src": "/audio/reaction-cake-01.mp3",
+      "durationMs": 6936
+    }
+  ],
+  "sit": [
+    {
+      "text": "Qua đây ngồi cạnh ông nè. Trà còn nóng, mình vừa uống vừa kể chuyện cho vui.",
+      "src": "/audio/reaction-sit-01.mp3",
+      "durationMs": 6744
+    }
+  ],
+  "weather": [
+    {
+      "text": "Mưa lất phất rồi bà con ơi. Ghé vô mái hiên, ông giữ chỗ khô cho con.",
+      "src": "/audio/reaction-weather-01.mp3",
+      "durationMs": 6984
+    }
+  ],
+  "wind": [
+    {
+      "text": "Ối, gió nổi lên rồi. Giữ giùm ông thùng bánh, đồ đạc bay hết trơn kìa.",
+      "src": "/audio/reaction-wind-01.mp3",
+      "durationMs": 6960
+    },
+    {
+      "text": "Trời đất ơi, gió thổi lộn cả cái ghế rồi. Bà con nép vô hiên với ông nghen.",
+      "src": "/audio/reaction-wind-02.mp3",
+      "durationMs": 7032
+    }
+  ],
+  "windstrong": [
+    {
+      "text": "Gió mạnh quá bà con ơi. Cả rổ rau cũng bay rồi, ông phải níu cái sạp lại thôi.",
+      "src": "/audio/reaction-windstrong-01.mp3",
+      "durationMs": 7056
+    }
+  ],
+  "live": [
+    {
+      "text": "Để ông cầm điện thoại lên chào bà con nghen. A lô, bà con nghe ông Ba nói rõ không?",
+      "src": "/audio/reaction-live-01.mp3",
+      "durationMs": 7440
+    },
+    {
+      "text": "Ông mở điện thoại lên live nè. Ai mới ghé tiệm thì ngồi chơi, ông kể chuyện cho nghe.",
+      "src": "/audio/reaction-live-02.mp3",
+      "durationMs": 7176
+    }
+  ],
+  "music": [
+    {
+      "text": "Ông lấy cây đàn ra gảy vài câu nghen. Bà con ngồi chơi, nghe tiếng đàn cho vui cửa vui nhà.",
+      "src": "/audio/reaction-music-01.mp3",
+      "durationMs": 7752
+    }
+  ],
+  "storm": [
+    {
+      "text": "Ối bà con ơi, bão cuốn cả cái tiệm rồi. Trời đất, tới ông cũng bay luôn nè.",
+      "src": "/audio/reaction-storm-01.mp3",
+      "durationMs": 7080
+    },
+    {
+      "text": "Ôi chao, giữ ông lại với bà con ơi. Đồ đạc bay vòng vòng, cái chiếu cũng đi theo ông rồi.",
+      "src": "/audio/reaction-storm-02.mp3",
+      "durationMs": 7944
+    }
+  ],
+  "dog": [
+    {
+      "text": "Ơ, con chó này lại còn tè trước tiệm ông nữa. Này Mực, ra gốc cây bên kia chớ con.",
+      "src": "/audio/reaction-dog-01.mp3",
+      "durationMs": 7944
+    }
+  ],
+  "stone": [
+    {
+      "text": "Ái chà, ai ném sỏi trúng mặt ông vậy. Tinh nghịch vừa thôi nghen, lại đây ông mời uống trà.",
+      "src": "/audio/reaction-stone-01.mp3",
+      "durationMs": 7800
+    }
+  ],
+  "ask": [
+    {
+      "text": "Con hỏi ông có vui không hả. Có bà con ghé chơi, cái tiệm nhỏ này lúc nào cũng vui.",
+      "src": "/audio/reaction-ask-01.mp3",
+      "durationMs": 7320
+    },
+    {
+      "text": "Ông già rồi mà chuyện kể còn nhiều lắm. Con cứ ngồi xuống, ông rót thêm chén trà nghen.",
+      "src": "/audio/reaction-ask-02.mp3",
+      "durationMs": 7416
+    }
+  ],
+  "share": [
+    {
+      "text": "Ông Ba cảm ơn con đã chia sẻ buổi phát trực tiếp nghen. Con rủ thêm bạn ghé tiệm, ông vui lắm!",
+      "src": "/audio/share-01.mp3",
+      "durationMs": 7800
+    },
+    {
+      "text": "Cảm ơn con đã chia sẻ phiên trực tiếp của ông Ba nghen. Nhờ con mà tiệm nhỏ thêm đông vui rồi!",
+      "src": "/audio/share-02.mp3",
+      "durationMs": 7536
+    }
+  ]
+}

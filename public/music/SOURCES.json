@@ -1,0 +1,18 @@
+{
+  "title": "Tiệm vui",
+  "file": "tiem-vui.wav",
+  "type": "original synthesized instrumental",
+  "description": "Original cheerful marimba and acoustic plucked-string miniature with soft bass, shaker, and rim percussion. Composed for this scene; not an arrangement of an existing song.",
+  "provenance": "Generated entirely by scripts/generate-background-music.mjs using oscillators and deterministic seeded noise. No external audio, recordings, or sample packs.",
+  "bpm": 108,
+  "bars": 24,
+  "timeSignature": "4/4",
+  "key": "C major",
+  "seamlessLoop": true,
+  "durationSeconds": 53.333333333333336,
+  "sampleRate": 22050,
+  "channels": 2,
+  "bitsPerSample": 16,
+  "peakAmplitude": 0.7,
+  "rmsAmplitude": 0.07925111261849725
+}

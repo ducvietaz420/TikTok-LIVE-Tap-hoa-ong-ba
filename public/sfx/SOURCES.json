@@ -1,0 +1,33 @@
+{
+  "file": "/sfx/dog-bark.wav",
+  "title": "George vuf 1996",
+  "description": "Actual bark of George, a Labrador; one bark can be played twice for gau gau.",
+  "author": "Broadbeer",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:George_vuf_1996.ogg",
+  "originalURL": "https://upload.wikimedia.org/wikipedia/commons/4/4c/George_vuf_1996.ogg",
+  "license": "Public domain (PD-self)",
+  "licenseStatement": "The copyright holder released the recording into the public domain worldwide.",
+  "recordedCirca": "1996",
+  "checkedAt": "2026-11-09",
+  "originalFile": "george-vuf-1996-original.ogg",
+  "changes": "Decoded to mono PCM16 WAV; 128-sample fades at both edges. No gain increase; no synthesized bark.",
+  "format": "WAV PCM16",
+  "sampleRate": 44100,
+  "channels": 1,
+  "frames": 14412,
+  "durationSeconds": 0.3268027210884354,
+  "peakAmplitude": 0.7255380749702454,
+  "activeRangeSeconds": [
+    0.02,
+    0.3
+  ],
+  "suggestedPlaybackSeconds": [
+    3.2,
+    3.65,
+    4.6,
+    5.05
+  ],
+  "sha256": "efa9a9fc76df3607a363d1b72e0e8b32d7c4a9abfbceec55bc93fb9e6df13914",
+  "originalSHA256": "0915bcdc936ebfedd725d99c8fe74745c61c895ca099e016f987a4067289716f",
+  "inspection": "Source/licensing, container, PCM data, duration, peak and waveform activity were checked. Audio-input tool was unavailable; no subjective listening claim."
+}

@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Tạp hoá Ông Ba · Màn hình phát</title><link rel="icon" href="/favicon.svg"><link rel="preload" href="/fonts/BeVietnamPro-Regular.ttf" as="font" type="font/ttf" crossorigin><link rel="stylesheet" href="/overlay.css"></head>
+<body><audio id="background-music" src="/music/tiem-vui.wav" loop preload="none" hidden></audio><main id="stage" aria-label="Cảnh tạp hoá ông Ba">
+  <canvas id="scene"></canvas><div class="vignette"></div><div id="scene-error" hidden>Không dựng được cảnh 3D. Hãy bật tăng tốc đồ hoạ trong trình duyệt rồi tải lại.</div>
+  <header class="masthead"><span class="brand-seal">ÔB</span><div><span class="eyebrow">MỘT GÓC PHỐ · MỘT CHÚT BÌNH YÊN</span><h1 id="shop-name">TẠP HOÁ ÔNG BA</h1></div><span class="open-sign">MỞ CỬA</span></header>
+  <section class="goal wood" aria-label="Cấp tiệm"><div class="goal-top"><span>Cùng ông thêm hàng</span><small id="level">TIỆM CẤP 1 / 5</small></div><div class="goal-number"><b id="points">0</b><span>điểm quà</span><span class="coin">✦</span></div><div class="progress"><i id="progress"></i></div><div class="goal-foot"><span id="goal-caption">Kệ hàng mới</span><span id="goal-value">0 / 500</span></div></section>
+  <aside class="supporters wood"><h2>Khách quý của tiệm</h2><div id="supporters"><p class="empty-support">Chén trà đã rót,<br>mời bạn ghé chơi.</p></div><div class="chalk-flower">❧</div></aside>
+  <aside class="action-board wood gift-board" aria-label="Quà tặng tương tác"><h2>Mời bà con ghé tiệm</h2><p class="gift-board-caption">TẶNG QUÀ · ÔNG TƯƠNG TÁC</p><div id="gift-rows" class="gift-rows"></div><p class="gift-board-foot">Hình quà ở bên trái · Việc ông làm ở bên phải</p></aside>
+  <div id="event-alert" class="event-alert" hidden><span id="event-label">MỘT NGƯỜI BẠN GHÉ TIỆM</span><p id="event-text"></p></div>
+  <section id="dialogue" class="dialogue" hidden><span>ÔNG BA KỂ CHUYỆN</span><p id="dialogue-text"></p><div class="speaking-bars"><i></i><i></i><i></i><i></i><i></i></div></section>
+  <div class="scene-caption"><span class="little-line"></span>AI GHÉ CŨNG LÀ NGƯỜI NHÀ<span class="little-line"></span></div>
+  <footer><span>Trà nóng có sẵn. Chuyện cũ kể hoài.</span><span class="connection-dot" id="connection-dot" title="Trạng thái TikFinity"></span></footer>
+  <div class="overlay-tools" id="overlay-tools"><button id="sound-toggle" title="Bật hoặc tắt âm thanh">♫ Bật âm thanh</button><button id="fullscreen" title="Toàn màn hình">⛶</button><a href="/control" target="_blank" title="Bảng điều khiển">⚙</a></div>
+  <div id="pause-label" hidden>TIỆM TẠM NGHỈ · LÁT NỮA ÔNG VỀ</div>
+</main><script type="module" src="/overlay.js"></script></body></html>

@@ -1,0 +1,4 @@
+node_modules/
+.runtime/
+*.zip
+__pycache__/

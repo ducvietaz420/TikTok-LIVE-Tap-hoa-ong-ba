@@ -1,0 +1,236 @@
+[
+  {
+    "id": "vegetables",
+    "action": "vegetables",
+    "label": "Mua rau",
+    "giftId": "5655",
+    "giftName": "Hoa hồng",
+    "aliases": [
+      "Rose"
+    ],
+    "icon": "/gifts/5655.webp",
+    "diamonds": 1,
+    "color": "#7a8137",
+    "description": "Thêm rau tươi vào sạp",
+    "voice": "gift"
+  },
+  {
+    "id": "snack",
+    "action": "snack",
+    "label": "Mua bánh",
+    "giftId": "6784",
+    "giftName": "Lát bánh ngọt",
+    "aliases": [
+      "Cake Slice"
+    ],
+    "icon": "/gifts/6784.webp",
+    "diamonds": 1,
+    "color": "#953c30",
+    "description": "Tiếp bánh kẹo cho tiệm",
+    "voice": "gift"
+  },
+  {
+    "id": "materials",
+    "action": "materials",
+    "label": "Vật liệu",
+    "giftId": "6064",
+    "giftName": "GG",
+    "aliases": [],
+    "icon": "/gifts/6064.webp",
+    "diamonds": 1,
+    "color": "#277e8d",
+    "description": "Mang gỗ và vật liệu đến tiệm",
+    "voice": "gift"
+  },
+  {
+    "id": "milk",
+    "action": "milk",
+    "label": "Sữa",
+    "giftId": "5827",
+    "giftName": "Kem ốc quế",
+    "aliases": [
+      "Ice Cream Cone"
+    ],
+    "icon": "/gifts/5827.webp",
+    "diamonds": 1,
+    "color": "#65717c",
+    "description": "Thêm sữa vào kệ hàng",
+    "voice": "gift"
+  },
+  {
+    "id": "cake",
+    "action": "cake",
+    "label": "Bánh",
+    "giftId": "6416",
+    "giftName": "Bánh quy sô-cô-la chip",
+    "aliases": [
+      "Choc Chip Cookie"
+    ],
+    "icon": "/gifts/6416.webp",
+    "diamonds": 5,
+    "color": "#9a763d",
+    "description": "Mang bánh ngon mời khách",
+    "voice": "gift"
+  },
+  {
+    "id": "sit",
+    "action": "sit",
+    "label": "Ngồi cùng",
+    "giftId": "5487",
+    "giftName": "Bắn tim",
+    "aliases": [
+      "Finger Heart"
+    ],
+    "icon": "/gifts/5487.webp",
+    "diamonds": 5,
+    "color": "#97633b",
+    "description": "Một vị khách ngồi uống trà cùng ông",
+    "voice": "tea"
+  },
+  {
+    "id": "weather",
+    "action": "weather",
+    "label": "Thời tiết",
+    "giftId": "8723",
+    "giftName": "Cầu vồng",
+    "aliases": [
+      "Rainbow"
+    ],
+    "icon": "/gifts/8723.webp",
+    "diamonds": 1,
+    "color": "#538197",
+    "description": "Một cơn mưa nhẹ ghé qua phố",
+    "voice": "rain"
+  },
+  {
+    "id": "wind",
+    "action": "wind",
+    "label": "Gió lớn I",
+    "giftId": "7832",
+    "giftName": "Trao nụ hôn gió",
+    "aliases": [
+      "Blow a kiss"
+    ],
+    "icon": "/gifts/7832.webp",
+    "diamonds": 1,
+    "color": "#8e3535",
+    "description": "Gió lay hàng tre trước tiệm",
+    "voice": null
+  },
+  {
+    "id": "windstrong",
+    "action": "windstrong",
+    "label": "Gió lớn II",
+    "giftId": "5659",
+    "giftName": "Hạc giấy",
+    "aliases": [
+      "Paper Crane"
+    ],
+    "icon": "/gifts/5659.webp",
+    "diamonds": 99,
+    "color": "#9c3d36",
+    "description": "Một đợt gió mạnh thổi qua",
+    "voice": null
+  },
+  {
+    "id": "live",
+    "action": "live",
+    "label": "LIVE",
+    "giftId": "5269",
+    "giftName": "TikTok",
+    "aliases": [],
+    "icon": "/gifts/5269.webp",
+    "diamonds": 1,
+    "color": "#9d3d68",
+    "description": "Góc phố bật sáng chào khách",
+    "voice": "greeting"
+  },
+  {
+    "id": "music",
+    "action": "music",
+    "label": "Đàn ca",
+    "giftId": "7883",
+    "giftName": "Ghi ta",
+    "aliases": [
+      "Guitar"
+    ],
+    "icon": "/gifts/7883.webp",
+    "diamonds": 99,
+    "color": "#775395",
+    "description": "Ông Ba vui vẻ ngâm nga",
+    "voice": null
+  },
+  {
+    "id": "upgrade",
+    "action": "upgrade",
+    "label": "Lên cấp nhà",
+    "giftId": "6968",
+    "giftName": "Bàn tay tạo hình trái tim",
+    "aliases": [
+      "Hand Heart"
+    ],
+    "icon": "/gifts/6968.webp",
+    "diamonds": 100,
+    "color": "#848139",
+    "description": "Nâng tiệm thêm một cấp, tối đa cấp 5",
+    "voice": "upgrade"
+  },
+  {
+    "id": "storm",
+    "action": "storm",
+    "label": "Bão",
+    "giftId": "7015",
+    "giftName": "Chiếc ô",
+    "aliases": [
+      "Umbrella"
+    ],
+    "icon": "/gifts/7015.webp",
+    "diamonds": 150,
+    "color": "#4d6586",
+    "description": "Mưa gió ghé tiệm một lát",
+    "voice": "rain"
+  },
+  {
+    "id": "dog",
+    "action": "dog",
+    "label": "Chó sủa",
+    "giftId": "6267",
+    "giftName": "Chó Corgi",
+    "aliases": [
+      "Corgi"
+    ],
+    "icon": "/gifts/6267.webp",
+    "diamonds": 299,
+    "color": "#7c663e",
+    "description": "Bé cún chạy ra đón khách",
+    "voice": null
+  },
+  {
+    "id": "stone",
+    "action": "stone",
+    "label": "Ném đá",
+    "giftId": "5853",
+    "giftName": "Găng tay đấm bốc vàng",
+    "aliases": [
+      "Gold Boxing Gloves"
+    ],
+    "icon": "/gifts/5853.webp",
+    "diamonds": 10,
+    "color": "#62616d",
+    "description": "Viên sỏi hoạt hình rơi xuống sân",
+    "voice": null
+  },
+  {
+    "id": "ask",
+    "action": "ask",
+    "label": "Hỏi ông",
+    "giftId": "8913",
+    "giftName": "Rosa",
+    "aliases": [],
+    "icon": "/gifts/8913.webp",
+    "diamonds": 10,
+    "color": "#8c9049",
+    "description": "Ông Ba kể thêm một câu chuyện",
+    "voice": "ambient"
+  }
+]

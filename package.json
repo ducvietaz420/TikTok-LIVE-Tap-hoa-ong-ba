@@ -1,0 +1,17 @@
+{
+  "name": "tap-hoa-ong-ba-live",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Cảnh 3D tạp hoá vỉa hè cho TikTok LIVE Studio và TikFinity",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "three": "0.187.0"
+  }
+}

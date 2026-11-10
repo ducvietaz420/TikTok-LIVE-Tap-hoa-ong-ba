@@ -1,0 +1,220 @@
+[
+  {
+    "action": "buy-vegetables",
+    "label": "Mua rau",
+    "giftId": "5655",
+    "giftName": "Hoa hồng",
+    "diamonds": 1,
+    "icon": "/gifts/5655.webp",
+    "aliases": [
+      "Rose"
+    ],
+    "source": "https://tikfinity.zerody.one/api/getAllGifts?lang=vi-VN&client=giftlist",
+    "imageSource": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/eba3a9bb85c33e017f3648eaf88d7189~tplv-obj.webp",
+    "catalogCheckedAt": "2026-11-09"
+  },
+  {
+    "action": "buy-bread",
+    "label": "Mua bánh",
+    "giftId": "6784",
+    "giftName": "Lát bánh ngọt",
+    "diamonds": 1,
+    "icon": "/gifts/6784.webp",
+    "aliases": [
+      "Cake Slice"
+    ],
+    "source": "https://tikfinity.zerody.one/api/getAllGifts?lang=vi-VN&client=giftlist",
+    "imageSource": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/f681afb4be36d8a321eac741d387f1e2~tplv-obj.webp",
+    "catalogCheckedAt": "2026-11-09"
+  },
+  {
+    "action": "materials",
+    "label": "Vật liệu",
+    "giftId": "6064",
+    "giftName": "GG",
+    "diamonds": 1,
+    "icon": "/gifts/6064.webp",
+    "aliases": [],
+    "source": "https://tikfinity.zerody.one/api/getAllGifts?lang=vi-VN&client=giftlist",
+    "imageSource": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/3f02fa9594bd1495ff4e8aa5ae265eef~tplv-obj.webp",
+    "catalogCheckedAt": "2026-11-09"
+  },
+  {
+    "action": "milk",
+    "label": "Sữa",
+    "giftId": "5827",
+    "giftName": "Kem ốc quế",
+    "diamonds": 1,
+    "icon": "/gifts/5827.webp",
+    "aliases": [
+      "Ice Cream Cone"
+    ],
+    "source": "https://tikfinity.zerody.one/api/getAllGifts?lang=vi-VN&client=giftlist",
+    "imageSource": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/968820bc85e274713c795a6aef3f7c67~tplv-obj.webp",
+    "catalogCheckedAt": "2026-11-09"
+  },
+  {
+    "action": "cake",
+    "label": "Bánh",
+    "giftId": "6416",
+    "giftName": "Bánh quy sô-cô-la chip",
+    "diamonds": 5,
+    "icon": "/gifts/6416.webp",
+    "aliases": [
+      "Choc Chip Cookie"
+    ],
+    "source": "https://tikfinity.zerody.one/api/getAllGifts?lang=vi-VN&client=giftlist",
+    "imageSource": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/7dd2731de2e644301a329d3eb437b427~tplv-obj.webp",
+    "catalogCheckedAt": "2026-11-09"
+  },
+  {
+    "action": "sit",
+    "label": "Ngồi cùng",
+    "giftId": "5487",
+    "giftName": "Bắn tim",
+    "diamonds": 5,
+    "icon": "/gifts/5487.webp",
+    "aliases": [
+      "Finger Heart"
+    ],
+    "source": "https://tikfinity.zerody.one/api/getAllGifts?lang=vi-VN&client=giftlist",
+    "imageSource": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/a4c4dc437fd3a6632aba149769491f49.png~tplv-obj.webp",
+    "catalogCheckedAt": "2026-11-09"
+  },
+  {
+    "action": "weather",
+    "label": "Thời tiết",
+    "giftId": "8723",
+    "giftName": "Cầu vồng",
+    "diamonds": 1,
+    "icon": "/gifts/8723.webp",
+    "aliases": [
+      "Rainbow"
+    ],
+    "source": "https://tikfinity.zerody.one/api/getAllGifts?lang=vi-VN&client=giftlist",
+    "imageSource": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/644f6029df42ac078e6f13de19c6640c.png~tplv-obj.webp",
+    "catalogCheckedAt": "2026-11-09"
+  },
+  {
+    "action": "wind",
+    "label": "Gió lớn I",
+    "giftId": "7832",
+    "giftName": "Trao nụ hôn gió",
+    "diamonds": 1,
+    "icon": "/gifts/7832.webp",
+    "aliases": [
+      "Blow a kiss"
+    ],
+    "source": "https://tikfinity.zerody.one/api/getAllGifts?lang=vi-VN&client=giftlist",
+    "imageSource": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/cdb55940740d5c83879b2934f9a7d08e~tplv-obj.webp",
+    "catalogCheckedAt": "2026-11-09"
+  },
+  {
+    "action": "strong-wind",
+    "label": "Gió lớn II",
+    "giftId": "5659",
+    "giftName": "Hạc giấy",
+    "diamonds": 99,
+    "icon": "/gifts/5659.webp",
+    "aliases": [
+      "Paper Crane"
+    ],
+    "source": "https://tikfinity.zerody.one/api/getAllGifts?lang=vi-VN&client=giftlist",
+    "imageSource": "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/0f158a08f7886189cdabf496e8a07c21~tplv-obj.webp",
+    "catalogCheckedAt": "2026-11-09"
+  },
+  {
+    "action": "live",
+    "label": "LIVE",
+    "giftId": "5269",
+    "giftName": "TikTok",
+    "diamonds": 1,
+    "icon": "/gifts/5269.webp",
+    "aliases": [],
+    "source": "https://tikfinity.zerody.one/api/getAllGifts?lang=vi-VN&client=giftlist",
+    "imageSource": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/802a21ae29f9fae5abe3693de9f874bd~tplv-obj.webp",
+    "catalogCheckedAt": "2026-11-09"
+  },
+  {
+    "action": "music",
+    "label": "Đàn ca",
+    "giftId": "7883",
+    "giftName": "Ghi ta",
+    "diamonds": 99,
+    "icon": "/gifts/7883.webp",
+    "aliases": [
+      "Guitar"
+    ],
+    "source": "https://tikfinity.zerody.one/api/getAllGifts?lang=vi-VN&client=giftlist",
+    "imageSource": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/5c82ba276c718fa295a50867cb9c5568~tplv-obj.webp",
+    "catalogCheckedAt": "2026-11-09"
+  },
+  {
+    "action": "upgrade",
+    "label": "Lên cấp nhà",
+    "giftId": "6968",
+    "giftName": "Bàn tay tạo hình trái tim",
+    "diamonds": 100,
+    "icon": "/gifts/6968.webp",
+    "aliases": [
+      "Hand Heart"
+    ],
+    "source": "https://tikfinity.zerody.one/api/getAllGifts?lang=vi-VN&client=giftlist",
+    "imageSource": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/47e9081623cdae9faa55f4d0d67908bf~tplv-obj.webp",
+    "catalogCheckedAt": "2026-11-09"
+  },
+  {
+    "action": "storm",
+    "label": "Bão",
+    "giftId": "7015",
+    "giftName": "Chiếc ô",
+    "diamonds": 150,
+    "icon": "/gifts/7015.webp",
+    "aliases": [
+      "Umbrella"
+    ],
+    "source": "https://tikfinity.zerody.one/api/getAllGifts?lang=vi-VN&client=giftlist",
+    "imageSource": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/7c6e86c82fb77eed5cc7b4c64bacd46f~tplv-obj.webp",
+    "catalogCheckedAt": "2026-11-09"
+  },
+  {
+    "action": "dog",
+    "label": "Chó sủa",
+    "giftId": "6267",
+    "giftName": "Chó Corgi",
+    "diamonds": 299,
+    "icon": "/gifts/6267.webp",
+    "aliases": [
+      "Corgi"
+    ],
+    "source": "https://tikfinity.zerody.one/api/getAllGifts?lang=vi-VN&client=giftlist",
+    "imageSource": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/148eef0884fdb12058d1c6897d1e02b9~tplv-obj.webp",
+    "catalogCheckedAt": "2026-11-09"
+  },
+  {
+    "action": "stone",
+    "label": "Ném đá",
+    "giftId": "5853",
+    "giftName": "Găng tay đấm bốc vàng",
+    "diamonds": 10,
+    "icon": "/gifts/5853.webp",
+    "aliases": [
+      "Gold Boxing Gloves"
+    ],
+    "source": "https://tikfinity.zerody.one/api/getAllGifts?lang=vi-VN&client=giftlist",
+    "imageSource": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/2b4846f37e2f0b7e978322970e20a091~tplv-obj.webp",
+    "catalogCheckedAt": "2026-11-09"
+  },
+  {
+    "action": "ask",
+    "label": "Hỏi ông",
+    "giftId": "8913",
+    "giftName": "Rosa",
+    "diamonds": 10,
+    "icon": "/gifts/8913.webp",
+    "aliases": [],
+    "source": "https://tikfinity.zerody.one/api/getAllGifts?lang=vi-VN&client=giftlist",
+    "imageSource": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/eb77ead5c3abb6da6034d3cf6cfeb438~tplv-obj.webp",
+    "catalogCheckedAt": "2026-11-09"
+  }
+]
